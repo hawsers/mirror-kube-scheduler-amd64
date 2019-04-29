@@ -1,0 +1,1 @@
+# mirror-kube-scheduler-amd64
